@@ -1,0 +1,21 @@
+{
+  "name": "jude",
+  "version": "0.0.3",
+  "description": "jude.io wrapper",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/rockcold/jude.io.git"
+  },
+  "keywords": [
+    "jude"
+  ],
+  "author": "RockCold",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/rockcold/jude.io/issues"
+  }
+}
